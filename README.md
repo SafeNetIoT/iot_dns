@@ -94,6 +94,4 @@ This repository is licensed under [LICENSE_TYPE]. Scripts for analysis depend on
 ## Dataset Access
 
 The datasets are available at: 
----
-
-For questions, contact us through the GitHub Issues page.
+https://drive.google.com/drive/folders/1fLuti9QrC1tOH7ZPCxP-g_NLdCy4L73M?usp=sharing
