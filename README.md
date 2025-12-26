@@ -14,7 +14,6 @@ Key objectives include:
 - Evaluating adoption of secure DNS standards (DoH, DoT, DNSSEC)
 
 ## Testbed Environment
-
 **Devices:**  
 > 30+ consumer IoT devices categorized into: Cameras, Doorbells, Smart Plugs, Hubs, Speakers, Sensors, Lights, Appliances, Health, and Pet Care.
 
