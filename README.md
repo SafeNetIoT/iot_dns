@@ -85,11 +85,8 @@ These simulate malicious resolver behaviors and test how devices respond to alte
 
 ## Citation
 
-If you use this dataset or analysis scripts, please cite our paper: 
+If you use this dataset or analysis scripts, please cite our paper.
 
-## License
-
-This repository is licensed under [LICENSE_TYPE]. Scripts for analysis depend on Python, Jupyter, and Tshark.
 
 ## Dataset Access
 
