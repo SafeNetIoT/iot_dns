@@ -1,6 +1,6 @@
 # DNS Guidelines for Securing IoT Ecosystems
 
-This repository accompanies our ACM IMC paper on DNS behavior in consumer IoT devices. It contains datasets, analysis scripts, and experiment configurations used to evaluate DNS security, privacy, and operational practices across a diverse set of real-world IoT devices.
+This repository contains datasets, analysis scripts, and experiment configurations used to evaluate DNS security, privacy, and operational practices across a diverse set of real-world IoT devices.
 
 ## Overview
 
